@@ -13,6 +13,7 @@ In these courses, you will learn the foundations of Deep Learning, understand ho
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Machine Learning - Stanford CS229](http://cs229.stanford.edu/)
 3. [Fast.ai - Machine Learning](http://course18.fast.ai/ml)
+4. [Introduction to AI - Stanford CS221](https://stanford-cs221.github.io/spring2020/)
 
 #### Vision
 1. [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
